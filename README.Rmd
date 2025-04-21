@@ -31,7 +31,7 @@ You can install the development version of regexcite from [GitHub](https://githu
 
 ``` r
 # install.packages("devtools")
-pak::pak("jadeeechen/regexcite")
+devtools::install_github("jennybc/regexcite")
 ```
 
 ## Usage
