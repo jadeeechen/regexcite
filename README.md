@@ -14,6 +14,7 @@ see [stringr](https://stringr.tidyverse.org),
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/jadeeechen/regexcite/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jadeeechen/regexcite/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check.yaml](https://github.com/jadeeechen/regexcite/actions/workflows/R-CMD-check.yaml/badge.svg?branch=master)](https://github.com/jadeeechen/regexcite/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of regexcite is to make regular expressions more exciting! It
