@@ -18,7 +18,7 @@ see [stringr](https://stringr.tidyverse.org),
 coverage](https://codecov.io/gh/jadeeechen/regexcite/graph/badge.svg)](https://app.codecov.io/gh/jadeeechen/regexcite)
 <!-- badges: end -->
 
-The goal of regexcite is to make regular expressions more exciting! It
+The goal of regexcite is to make regular expressions more exciting!! It
 provides convenience functions to make some common tasks with string
 manipulation and regular expressions a bit easier.
 
